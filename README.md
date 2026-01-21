@@ -77,6 +77,3 @@ sudo chmod 666 /dev/v_pta
 ```bash
 ./pta_app stats
 ```
-
-## 👨‍💻 About Me
-I am a Firmware Engineer specializing in Wi-Fi connectivity and embedded systems. This project was created to deepen my understanding of Linux Kernel internals and resource management in multi-core environments.
