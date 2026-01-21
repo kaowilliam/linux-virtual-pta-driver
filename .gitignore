@@ -1,0 +1,9 @@
+*.o
+*.ko
+*.mod.c
+*.order
+*.symvers
+.*.cmd
+.tmp_versions/
+pta_app
+.vscode/
